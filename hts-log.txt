@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Jun 2023 00:57:02 at https://courses.ankurwarikoo.com/communication-fb/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://courses.ankurwarikoo.com/communication-fb/ -O1 "C:\My Web Sites\course" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/$&/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/3pf7hqe/9wnkn.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/Trident/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/6o4mi85w/9wnkn.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/POST (from https://connect.facebook.net/en_US/fbevents.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/owl-carousel-new/assets/owl.video.play.png (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/6z9kcviw/9wnkp.css)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/Edge/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/mlwy9t39/9wnkp.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/Gecko/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/mlwy9t39/9wnkp.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/Firefox/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/mlwy9t39/9wnkp.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/Version/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/mlwy9t39/9wnkp.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/version/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/mlwy9t39/9wnkp.js)
+00:58:04	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/-negative.svg (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/7u9bthd5/9wnkm.js)
+00:58:06	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-fb/OPR/ (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/7u9bthd5/9wnkm.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 80 links scanned, 68 files written (4304344 bytes overall) [1480429 bytes received at 23131 bytes/sec], 6199080 bytes transferred using HTTP compression in 70 files, ratio 17%, 23.3 requests per connection
+(11 errors, 0 warnings, 0 messages)
